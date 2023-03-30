@@ -8,4 +8,4 @@
 |--------|
 |ArrayList|
 |Doubly Linked List|
-|
+|Deque|
