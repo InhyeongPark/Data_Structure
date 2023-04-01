@@ -9,3 +9,5 @@
 |ArrayList|
 |Doubly Linked List|
 |Deque|
+|BST|
+|MinHeap|
