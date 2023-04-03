@@ -11,3 +11,4 @@
 |Deque|
 |BST|
 |MinHeap|
+|Hashmap|
