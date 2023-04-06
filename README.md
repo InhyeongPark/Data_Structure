@@ -13,3 +13,4 @@
 |MinHeap|
 |Hashmap|
 |AVL|
+|Sorting|
