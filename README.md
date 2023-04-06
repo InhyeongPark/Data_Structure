@@ -12,3 +12,4 @@
 |BST|
 |MinHeap|
 |Hashmap|
+|AVL|
