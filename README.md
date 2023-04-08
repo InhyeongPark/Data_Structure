@@ -14,3 +14,4 @@
 |Hashmap|
 |AVL|
 |Sorting|
+|Pattern Matching|
