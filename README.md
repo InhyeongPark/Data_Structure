@@ -15,3 +15,4 @@
 |AVL|
 |Sorting|
 |Pattern Matching|
+|Graph|
